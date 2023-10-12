@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "product 1",
+      "price": 500
+    },
+    {
+      "id": 2,
+      "title": "product 2",
+      "price": 2500
+    },
+    {
+      "id": 3,
+      "title": "product 3",
+      "price": 3500
+    },
+    {
+      "id": 4,
+      "title": "product 4",
+      "price": 34500
+    },
+    {
+      "id": 5,
+      "title": "product 5",
+      "price": 5500
+    }
+  ],
+  "cart": [
+    {
+      "id": 2,
+      "title": "product 2",
+      "price": 2500
+    },
+    {
+      "id": 3,
+      "title": "product 3",
+      "price": 3500
+    }
+  ]
+}
